@@ -1,0 +1,32 @@
+export interface Exoplanet {
+  id: string;
+  name: string;
+  x: number;
+  y: number;
+  z: number;
+  ra: number;
+  dec: number;
+  orbitalSemiMajorAxis: number;
+  radiusEarth: number;
+  radiusJupiter: number;
+  massEarth: number;
+  massJupiter: number;
+  equilibriumTemperature: number;
+  density: number;
+  starSpectralType: string;
+  distance: number;
+  distanceLightYears: number;
+  orbitalPeriod: number;
+  starEffectiveTemperature: number;
+  starLuminosity: number;
+  insolationFlux: number;
+  orbitalEccentricity: number;
+  transitDepth: number;
+  size: number;
+  habitability: number;
+  starRadius: number;
+  starMass: number;
+  discoveryYear: number;
+  discoveryMethod: string;
+  hostname: string;
+}
