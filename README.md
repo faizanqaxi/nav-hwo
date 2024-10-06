@@ -21,3 +21,9 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## App Screenshots
+
+![image](https://github.com/user-attachments/assets/67850152-b067-46f4-a859-34e680a4a092)
+
+![image](https://github.com/user-attachments/assets/88ff0f85-2b8a-464b-a202-fb585a05901c)
